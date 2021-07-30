@@ -1,0 +1,14 @@
+// INPUTS
+
+var _ =
+
+// FUNCTION
+
+var _ = function () {
+
+    return
+}
+
+// TEST
+
+console.log(())
